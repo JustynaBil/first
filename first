@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Hello World! </title>
+    </head>
+    <body>
+<p> Hello, its my first project</p>
+<img src="http://visitlviv.net/php_uploads/images/eventimages/ArticlePortletImageAlternative_5611.jpg" alt="city">
+    </body>
+</html>
